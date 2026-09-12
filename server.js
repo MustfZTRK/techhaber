@@ -5,7 +5,7 @@ const fs = require('fs');
 const crypto = require('crypto');
 const app = express();
 // Analitik live-trafik (pasif, fail-safe) - http://127.0.0.1:4050
-try { require('C:/Users/musta/Masaüstü/Docker/analitik/agent')('techhaber', app); } catch {}
+try { require(process.env.ANALITIK_AGENT || './analitik-agent')('techhaber', app); } catch {}
 const PORT = process.env.PORT || 3008;
 const { generateSitemap } = require('./creator');
 const { generateRobots } = require('./robots');
