@@ -1,0 +1,242 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en-US">
+<title type="text">Tech | The Verge</title>
+<subtitle type="text">The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts.</subtitle>
+<updated>2026-06-13T16:29:47+00:00</updated>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/tech"/>
+<id>https://www.theverge.com/rss/tech/index.xml</id>
+<link rel="self" type="application/atom+xml" href="https://www.theverge.com/rss/tech/index.xml"/>
+<icon>https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1</icon>
+<entry>
+<author>
+<name>Terrence O’Brien</name>
+</author>
+<title type="html">
+<![CDATA[ Microsoft hasn’t ruled out spinning off Xbox ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/games/949584/microsoft-spinning-off-xbox"/>
+<id>https://www.theverge.com/?p=949584</id>
+<updated>2026-06-13T12:29:47-04:00</updated>
+<published>2026-06-13T12:29:47-04:00</published>
+<category scheme="https://www.theverge.com" term="Business"/>
+<category scheme="https://www.theverge.com" term="Gaming"/>
+<category scheme="https://www.theverge.com" term="Microsoft"/>
+<category scheme="https://www.theverge.com" term="News"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<category scheme="https://www.theverge.com" term="Xbox"/>
+<summary type="html">
+<![CDATA[ Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off into a separate company. A new report from The Information suggests that Microsoft has [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="Asha Sharma on a background of green Xbox logos." data-caption="Asha Sharma. | Image: The Verge, Microsoft" data-portal-copyright="Image: The Verge, Microsoft" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption> Asha Sharma. | Image: The Verge, Microsoft </figcaption> </figure> <p class="has-text-align-none">Microsoft is preparing to <a href="https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma">lay off</a> a significant chunk of its Xbox division and is <a href="https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon">reevaluating</a> the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off into a separate company. </p> <p class="has-text-align-none">A new report from <em><a href="https://www.theinformation.com/articles/microsoft-considered-spinning-xbox-plans-new-halo-fallout-games/">The Information</a></em> suggests that Microsoft has considered some dramatic measures to make its Xbox unit more sustainable. That includes turning it into a wholly owned subsidiary, a joint venture, or even spinning it off entirely, with the possibility of selling the business. The report doesn't suggest anything is imminent, but it …</p> <p><a href="https://www.theverge.com/games/949584/microsoft-spinning-off-xbox">Read the full story at The Verge.</a></p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Sheena Vasani</name>
+</author>
+<title type="html">
+<![CDATA[ Bose’s latest QuietComfort Ultra are $70 off, marking a new low price  ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale"/>
+<id>https://www.theverge.com/?p=949190</id>
+<updated>2026-06-12T13:26:43-04:00</updated>
+<published>2026-06-13T12:00:00-04:00</published>
+<category scheme="https://www.theverge.com" term="Deals"/>
+<category scheme="https://www.theverge.com" term="Gadgets"/>
+<category scheme="https://www.theverge.com" term="Headphones"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<category scheme="https://www.theverge.com" term="Verge Shopping"/>
+<summary type="html">
+<![CDATA[ If you’re planning on traveling anytime soon, Bose&#8217;s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design of their predecessor, making them easy to pack in a carry-on. They’re even easier to recommend today, now [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="Bose&#039;s second-generation QuietComfort Ultra headphones" data-caption="Bose’s latest QuietComfort Ultra headphones fold down for easy storage. | Image: Bose" data-portal-copyright="Image: Bose" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/QCUHII26-BoseBlack_SF_PDP_E-Comm_Gallery_2_1500x1120.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption> Bose’s latest QuietComfort Ultra headphones fold down for easy storage. | Image: Bose </figcaption> </figure> <p class="has-text-align-none">If you’re planning on traveling anytime soon, <a href="https://www.theverge.com/news/772496/bose-quietcomfort-ultra-anc-wireless-headphones-second-generation-usb-c"><strong>Bose&#8217;s second-generation QuietComfort Ultra headphones</strong></a> are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design of <a href="https://www.theverge.com/news/772496/bose-quietcomfort-ultra-anc-wireless-headphones-second-generation-usb-c">their predecessor</a>, making them easy to pack in a carry-on. They’re even easier to recommend today, now that they’ve dropped to a new low price of $379 ($70 off) at <a href="https://www.amazon.com/dp/B0FDKQ2FG6">Amazon</a>, <a href="https://www.bestbuy.com/product/bose-quietcomfort-ultra-headphones-2nd-gen-black/J7C5V6W7LP/sku/6642778?utm_source=feed&amp;extStoreId=&amp;ref=212&amp;loc=BoseHD&amp;gclsrc=aw.ds&amp;gad_source=1&amp;gad_campaignid=19716535611&amp;gbraid=0AAAAAD-ORIgCZw_CnJk10M8F1qjLLR4Dc&amp;gclid=Cj0KCQjw3K7RBhDJARIsAKRtP5SJyrABDYGXfJNISAcq26aFRMFPQHMnwmZKYEisnruApX3XVv_i-YcaAqsKEALw_wcB">Best Buy</a>, and <a href="https://www.walmart.com/ip/Bose-QuietComfort-Ultra-Headphones-II-Bluetooth-Over-Ear-Noise-Cancelling-Headphones-Driftwood-Sand/17605916660">Walmart</a>.&nbsp;</p> <div class="product-block"><h3>Bose QuietComfort Ultra headphones (second-gen)</h3> <figure class="product-image"><img width="300" height="198" src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/bosequietcomfortultraheadphonessecondgeneration.webp?w=300" class="attachment-medium size-medium" alt="" /></figure> <h3>Where to Buy:</h3><ul><li><a href="https://www.amazon.com/dp/B0FDKQ2FG6"> <strike>$449</strike> $379 at <strong>Amazon</strong></a></li><li><a href="https://www.walmart.com/ip/Bose-QuietComfort-Ultra-Headphones-II-Bluetooth-Over-Ear-Noise-Cancelling-Headphones-Driftwood-Sand/17605916660"> <strike>$449</strike> $379 at <strong>Walmart</strong></a></li><li><a href="https://www.bestbuy.com/product/bose-quietcomfort-ultra-headphones-2nd-gen-black/J7C5V6W7LP/sku/6642778?utm_source=feed&#038;extStoreId=&#038;ref=212&#038;loc=BoseHD&#038;gclsrc=aw.ds&#038;gad_source=1&#038;gad_campaignid=19716535611&#038;gbraid=0AAAAAD-ORIgCZw_CnJk10M8F1qjLLR4Dc&#038;gclid=Cj0KCQjw3K7RBhDJARIsAKRtP5SJyrABDYGXfJNISAcq26aFRMFPQHMnwmZKYEisnruApX3XVv_i-YcaAqsKEALw_wcB"> <strike>$449</strike> $379 at <strong>Best Buy</strong></a></li></ul></div> <p class="has-text-align-none">The over-ears improve upon their predecessor with better noise cancellation and support for lossless audio over a USB-C cable, allowing you to enjoy higher-quality sound from compatible devices. Bose also added a new Cinema Mode that helps make movies and TV shows feel more immersive while making dialogue easier to hear, along with an improved transparency mode that surpasses the predecessor&#8217;s capabilities of reducing sudden loud noises. Battery life is better too, with the headphones lasting up to 30 hours on a single charge — a six-hour increase over the first-generation model.&nbsp;</p> <p class="has-text-align-none">Bose has also added a few other conveniences, including the ability to automatically enter a low-power standby mode when stored in the included case or laid flat. Plus, the headphones automatically power on and reconnect to a paired device when you put them on. At the same time, the new model retains soft ear cups and a comfortable, lightweight design that’s easy to wear for hours a time. Support for multipoint Bluetooth pairing remains as well, allowing you to stay connected to two devices simultaneously, so you can watch a video on your laptop and answer calls from your phone.</p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Antonio G. Di Benedetto</name>
+</author>
+<title type="html">
+<![CDATA[ My first 24 hours with Siri AI on the Mac ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence"/>
+<id>https://www.theverge.com/?p=949502</id>
+<updated>2026-06-13T09:44:07-04:00</updated>
+<published>2026-06-13T11:00:00-04:00</published>
+<category scheme="https://www.theverge.com" term="Analysis"/>
+<category scheme="https://www.theverge.com" term="Apple"/>
+<category scheme="https://www.theverge.com" term="Gadgets"/>
+<category scheme="https://www.theverge.com" term="Laptops"/>
+<category scheme="https://www.theverge.com" term="macOS"/>
+<category scheme="https://www.theverge.com" term="Report"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<category scheme="https://www.theverge.com" term="WWDC 2026"/>
+<summary type="html">
+<![CDATA[ I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least got me slightly rethinking things. I'm still early in testing Siri AI, as I've only had [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="A MacBook Pro resting on a couch with Siri AI running on the macOS 27 Golden Gate developer beta." data-caption="" data-portal-copyright="Photo: Antonio G. Di Benedetto / The Verge" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/061326_Siri_AI_MacBook_Pro_macOS_27_Golden_Gate_beta_ADiBenedetto_0003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption> </figcaption> </figure> <p class="has-drop-cap has-text-align-none">I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least got me <em>slightly </em>rethinking things.</p> <p class="has-text-align-none">I'm still early in testing Siri AI, as I've only had access to it in the macOS 27 developer beta for little more than 24 hours. It's also in an early preview state on the dev beta, so there should be lots of runway for improvements before it releases later this year. I don't even know if it's done indexing my files and folders on our review unit <a href="https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review">M5 MacBook Air</a> and <a href="https://www.theverge.com/tech/898062/apple-macbook-pro-16-m5-max-m1-comparison-review">M5 Max MacBook Pro</a>. Unlike on the iOS 27 dev …</p> <p><a href="https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence">Read the full story at The Verge.</a></p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Terrence O’Brien</name>
+</author>
+<title type="html">
+<![CDATA[ Never Post’s Mike Rugnetta on the creative process and the value of reliable power ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire"/>
+<id>https://www.theverge.com/?p=949073</id>
+<updated>2026-06-12T15:43:02-04:00</updated>
+<published>2026-06-13T10:00:00-04:00</published>
+<category scheme="https://www.theverge.com" term="Creators"/>
+<category scheme="https://www.theverge.com" term="Entertainment"/>
+<category scheme="https://www.theverge.com" term="Interview"/>
+<category scheme="https://www.theverge.com" term="Report"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<summary type="html">
+<![CDATA[ Mike Rugnetta is a writer, podcast host, producer, audio engineer, educator, musician, sound designer, and father. In short, the man wears a lot of hats. He's the cocreator and host of the award-winning Never Post, an absolutely must-listen podcast about the internet, as well as Fun City, a TTRPG podcast where he's the GM. He's [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="Headshot of Mike Rugnetta against a plain gray background." data-caption="" data-portal-copyright="Image: Mike Rugnetta" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/unnamed-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption> </figcaption> </figure> <p class="has-text-align-none"><a href="http://rugnetta.com">Mike Rugnetta</a> is a writer, podcast host, producer, audio engineer, educator, musician, sound designer, and father. In short, the man wears a lot of hats. He's the cocreator and host of the award-winning <a href="https://neverpo.st"><em>Never Post</em></a>, an absolutely must-listen podcast about the internet, as well as <a href="https://funcity.ventures"><em>Fun City</em></a><em>, </em>a TTRPG podcast where he's the GM. He's also hosted <a href="https://thecrashcourse.com/topic/theaterdrama/">two</a> <a href="https://thecrashcourse.com/topic/mythology/">different</a> <a href="https://thecrashcourse.com/"><em>Crash Course</em></a> series and <a href="https://www.youtube.com/@pbsideachannel/videos">PBS's Idea Channel</a>. </p> <p class="has-text-align-none">If you're thinking that sounds like a lot, you're not wrong. It made us want to know how Mike stays focused with so much on his plate, and what tools are most indispensable to him with his hectic schedule. But, what we got was so much more than th …</p> <p><a href="https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire">Read the full story at The Verge.</a></p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Allison Johnson</name>
+</author>
+<title type="html">
+<![CDATA[ Apple’s new AI photo editing tools mostly work, for better and worse ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on"/>
+<id>https://www.theverge.com/?p=949360</id>
+<updated>2026-06-12T17:05:11-04:00</updated>
+<published>2026-06-13T08:00:00-04:00</published>
+<category scheme="https://www.theverge.com" term="AI"/>
+<category scheme="https://www.theverge.com" term="Apple"/>
+<category scheme="https://www.theverge.com" term="iPhone"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<category scheme="https://www.theverge.com" term="WWDC 2026"/>
+<summary type="html">
+<![CDATA[ The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="iPhone on a tray showing editing UI in Apple Photos" data-caption="iPhone owners are getting real, native AI photo editing for the first time." data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03778_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption> iPhone owners are getting real, native AI photo editing for the first time. </figcaption> </figure> <p class="has-drop-cap has-text-align-none">The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready.</p> <p class="has-text-align-none">As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But for the iPhone, they represent a tipping point in what the native photos app allows you to do to your photos. I mean <a href="https://www.theverge.com/2024/8/13/24219825/google-says-pixel-cameras-dont-take-photos-they-create-memories"><em>memories</em></a>. I mean, I don't know anymore.</p> <p class="has-text-align-none">These new features are part of the iOS 27 developer beta right now, so bear in mind that Apple may continue making tweaks to them before they're released to the general public. There are three, or maybe two and a …</p> <p><a href="https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on">Read the full story at The Verge.</a></p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>David Pierce</name>
+</author>
+<title type="html">
+<![CDATA[ A better way to manage all your screenshots ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer"/>
+<id>https://www.theverge.com/?p=949465</id>
+<updated>2026-06-12T21:59:49-04:00</updated>
+<published>2026-06-13T08:00:00-04:00</published>
+<category scheme="https://www.theverge.com" term="Apps"/>
+<category scheme="https://www.theverge.com" term="Gadgets"/>
+<category scheme="https://www.theverge.com" term="Installer"/>
+<category scheme="https://www.theverge.com" term="Social Media"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<summary type="html">
+<![CDATA[ Hi, friends! Welcome to Installer No. 132, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy soccer, and also you can read all the old editions at the Installer homepage.) This week, I've been preparing for a month of getting absolutely nothing done during the World Cup. [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="" data-caption="" data-portal-copyright="Image: David Pierce / The Verge" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Installer-132.png?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption> </figcaption> </figure> <p class="has-text-align-none">Hi, friends! Welcome to <em>Installer</em> No. 132, your guide to the best and <em>Verge</em>-iest stuff in the world. (If you're new here, welcome, happy soccer, and also you can read all the old editions at the <a href="https://www.theverge.com/installer-newsletter"><em>Installer</em> homepage</a>.)</p> <p class="has-text-align-none">This week, I've been preparing for a month of getting absolutely nothing done during the World Cup. I've also been reading about <a href="https://www.nytimes.com/2026/06/07/magazine/steven-spielberg-movie-theater-disclosure-day.html?unlocked_article_code=1.olA.9eLC.E9A5EkMW8QHN"><strong>Steven Spielberg</strong></a> and <a href="https://www.nplusonemag.com/online-only/online-only/in-the-reality-lab/"><strong>wearables</strong></a> and <a href="https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/"><strong>the Boeing 747</strong></a>, overloading on computer nostalgia thanks to <a href="https://virtualosmuseum.org/"><strong>The Virtual OS Museum</strong></a>, watching <a href="https://sports.yahoo.com/nba/article/og-anunoby-saves-knicks-with-game-winning-tip-in-huge-block-in-historic-finals-comeback-it-feels-cool-071149439.html"><strong>that Knicks game winner</strong></a> over and over and over, listening to the fabulous new <a href="https://www.espn.com/espnradio/podcast/archive?id=47267310"><strong><em>This Was SportsCenter</em></strong></a><em> </em>podcast and the fabulous old <a href="https://redcircle.com/shows/the-renner-files"><strong><em>The Renner Files</em></strong></a><em> </em>podcast, and trying to tame my …</p> <p><a href="https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer">Read the full story at The Verge.</a></p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Charles Pulliam-Moore</name>
+</author>
+<title type="html">
+<![CDATA[ The future of Hollywood isn’t feeding prompts into vanilla gen AI models  ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai"/>
+<id>https://www.theverge.com/?p=948425</id>
+<updated>2026-06-12T16:43:35-04:00</updated>
+<published>2026-06-13T07:00:00-04:00</published>
+<category scheme="https://www.theverge.com" term="AI"/>
+<category scheme="https://www.theverge.com" term="Entertainment"/>
+<category scheme="https://www.theverge.com" term="Film"/>
+<category scheme="https://www.theverge.com" term="Google"/>
+<category scheme="https://www.theverge.com" term="OpenAI"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<summary type="html">
+<![CDATA[ For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="An illustration of a young woman standing on a bed. The woman is grimacing and engulfed in a flaming aura." data-caption="Concept art from Dear Upstairs Neighbors that used to train custom builds of Google’s Veo and Imagen models. | Image: Google DeepMind" data-portal-copyright="Image: Google DeepMind" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figure05_700_6_1080p.png?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption> Concept art from Dear Upstairs Neighbors that used to train custom builds of Google’s Veo and Imagen models. | Image: Google DeepMind </figcaption> </figure> <p class="has-drop-cap has-text-align-none">For all the <a href="https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck">noise that's been made</a> about how <a href="https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood">generative AI</a> is poised to revolutionize the filmmaking industry, <a href="https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025">there haven't really been any projects</a> created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out <a href="https://www.theverge.com/ai-artificial-intelligence/825498/openai-sora-video-slop-nostalgia-mister-rogers">short bursts of visually inconsistent footage</a>. And some of <a href="https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership">Hollywood's biggest AI partnerships</a> have <a href="https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt">suddenly evaporated</a> in ways that make it seem like studios might not be able to rely on the new technology coming out of Silicon Valley. For the most part, <a href="https://www.theverge.com/entertainment/948609/lionsgate-runway-ai-shorts">short-form video slop</a> appears to be the only thing that major production houses ar …</p> <p><a href="https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai">Read the full story at The Verge.</a></p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Stevie Bonifield</name>
+</author>
+<title type="html">
+<![CDATA[ Nothing CEO says phone prices are going to keep going up ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices"/>
+<id>https://www.theverge.com/?p=949403</id>
+<updated>2026-06-12T16:02:48-04:00</updated>
+<published>2026-06-12T16:02:48-04:00</published>
+<category scheme="https://www.theverge.com" term="Gadgets"/>
+<category scheme="https://www.theverge.com" term="News"/>
+<category scheme="https://www.theverge.com" term="Phones"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<summary type="html">
+<![CDATA[ If you're thinking about upgrading your phone, "the best time was yesterday," according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X that the RAM shortage has already impacted Nothing's less expensive mid-range phone: "For Phone 4A , memory [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="Photo of Nothing Phone 4A Pro on a green cutting mat showing the camera module with an unhappy smiley face on the Glyph Matrix" data-caption="Nothing Phone 4A Pro | Photo: Dominic Preston / The Verge" data-portal-copyright="Photo: Dominic Preston / The Verge" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-pro-5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption> Nothing Phone 4A Pro | Photo: Dominic Preston / The Verge </figcaption> </figure> <p class="has-text-align-none">If you're thinking about upgrading your phone, "the best time was yesterday," according to Nothing CEO and co-founder Carl Pei, echoing a message <a href="https://www.theverge.com/tech/888354/smartphone-manufacturer-ram-xiaomi-light-tcl">we heard during MWC</a>. As <a href="https://www.androidauthority.com/carl-pei-smartphone-price-warning-3677030/"><em>Android Authority</em></a> reports, Pei said in a <a href="https://x.com/getpeid/status/2065316004293681187?s=20">post on X</a> that <a href="https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news">the RAM shortage</a> has already impacted Nothing's less expensive <a href="https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar">mid-range phone</a>: "For <a href="https://www.theverge.com/tech/889769/nothing-phone-4a-pro-design-opaque-transparent">Phone 4A </a>, memory costs doubled between when we decided to build the device and when it launched. They've doubled again since." He warned that "Phone prices are going up, and they'll keep going up into next year." </p> <p class="has-text-align-none">Pei says RAM can now account for over 50 percent of the cost of a new phone. Nothing's just the latest phone maker to warn …</p> <p><a href="https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices">Read the full story at The Verge.</a></p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>TC. Sottek</name>
+</author>
+<title type="html">
+<![CDATA[ The world’s first trillionaire is a killer ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer"/>
+<id>https://www.theverge.com/?p=949259</id>
+<updated>2026-06-12T15:21:40-04:00</updated>
+<published>2026-06-12T14:46:40-04:00</published>
+<category scheme="https://www.theverge.com" term="Elon Musk"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<summary type="html">
+<![CDATA[ Elon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands out: A year ago, Musk's actions directly led to the deaths of hundreds of thousands of people. He did it knowingly. And, [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="Elon Musk makes a gesture at the inauguration" data-caption="Hm! | Photo: Kristen Radtke / The Verge; Getty Images" data-portal-copyright="Photo: Kristen Radtke / The Verge; Getty Images" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Musk_President_Trump_Portraits_K_Radtke.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption> Hm! | Photo: Kristen Radtke / The Verge; Getty Images </figcaption> </figure> <p class="has-text-align-none">Elon Musk's SpaceX IPO will probably make him <a href="https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo" data-type="link" data-id="https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo">the richest person to ever walk the planet</a>. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands out: A year ago, Musk's actions directly led to the deaths of hundreds of thousands of people. He did it knowingly. And, worse - <em>gleefully.</em></p> <p class="has-text-align-none">This is <a href="https://www.theverge.com/2022/11/11/23451931/elon-musk-twitter-bankrupt-verification-ftc">not a serious person</a>, but his abuse of the world is deadly serious. In the first months of President Donald Trump's second term, the Musk-led Department of Government Efficiency (DOGE) destroyed the US Agency for International Development, whose mission was a boon to public health around the globe. M …</p> <p><a href="https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer">Read the full story at The Verge.</a></p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>David Pierce</name>
+</author>
+<title type="html">
+<![CDATA[ Siri is good now?? ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/podcast/949079/siri-ai-good-vergecast"/>
+<id>https://www.theverge.com/?p=949079</id>
+<updated>2026-06-12T13:17:04-04:00</updated>
+<published>2026-06-12T13:17:04-04:00</published>
+<category scheme="https://www.theverge.com" term="AI"/>
+<category scheme="https://www.theverge.com" term="Apple"/>
+<category scheme="https://www.theverge.com" term="Apple Event"/>
+<category scheme="https://www.theverge.com" term="Podcasts"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<category scheme="https://www.theverge.com" term="Vergecast"/>
+<summary type="html">
+<![CDATA[ You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between "sort of useful at a few things" and "utterly disastrous, why did I even try, can it honestly not even set a timer." But the wildest thing just happened: Apple put out a new version of [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="" data-caption="" data-portal-copyright="Image: Alex Parkin / The Verge" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VST_0612_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption> </figcaption> </figure> <p class="has-text-align-none">You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between "sort of useful at a few things" and "utterly disastrous, why did I even try, can it honestly not even set a timer." But the wildest thing just happened: Apple <a href="https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc">put out a new version of Siri</a>, and it actually <a href="https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc">seems to be pretty good</a>.</p> <p class="has-text-align-none">On <a href="https://pod.link/vergecast">this episode of <em>The Vergecast</em></a>, David and Nilay talk about their early experiences with Siri AI, and what it means for users, and the rest of the AI industry, for the iPhone's built-in assistant to be good enough at most things. There's very little about Siri AI that feels bleeding edge or brand new, but …</p> <p><a href="https://www.theverge.com/podcast/949079/siri-ai-good-vergecast">Read the full story at The Verge.</a></p> ]]>
+</content>
+</entry>
+</feed>

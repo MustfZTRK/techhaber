@@ -1,0 +1,9 @@
+requests>=2.32.3
+beautifulsoup4>=4.12.3
+feedparser>=6.0.11
+lxml>=6.1.2
+google-generativeai>=0.5.4
+cryptography>=42.0.8
+urllib3>=2.2.3
+# sadece json-mysql karsilastirmasi icin — docker'da kullanilmiyorsa zararsiz
+mysql-connector-python>=8.4.0

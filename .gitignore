@@ -1,0 +1,16 @@
+# secrets
+.env
+.env.*
+!.env.example
+*.log
+
+# deps/build
+node_modules/
+dist/
+build/
+.next/
+
+# data
+db.json
+data.json
+data/session_secret
